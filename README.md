@@ -20,13 +20,13 @@
 
 ## About the Project
 
-In this [`Classification Project`](https://github.com/sinjoysaha/Amazon-Reviews-NLP), we use Natural Language Processing techniques and different Machine Learning models to classify Amazon book reviews into `POSITIVE` or `NEGATIVE` sentiments. 
+In this [`Classification Project`](https://github.com/sinjoysaha/Amazon-Reviews-NLP), we use Natural Language Processing techniques and different Machine Learning models to classify Amazon book reviews into `POSITIVE` or `NEGATIVE` sentiments.
 
 [![Project Image](docs/images/Amazon-Reviews-NLP-projectimage.png)](https://github.com/sinjoysaha/Amazon-Reviews-NLP)
 
-### Tasks
+### Steps
 
-1. Bag of Words technique was used to vectorized the reviews using the CountVectorizer (binary only) and TfidfVectorizer (Term Frequency - Inverse Document Frequency). 
+1. Bag of Words technique was used to vectorized the reviews using the CountVectorizer (binary only) and TfidfVectorizer (Term Frequency - Inverse Document Frequency).
 
 2. Since the smaller dataset was imbalanced, we use a bigger dataset and balance out the `POSITIVE`s and `NEGATIVE`s.
 
@@ -36,11 +36,11 @@ In this [`Classification Project`](https://github.com/sinjoysaha/Amazon-Reviews-
     - Naives Bayes
     - Logistic Regression
 
-4. Further, GridSearchCV was used to find the best parameters for the Linear SVM model. 
+4. Further, GridSearchCV was used to find the best parameters for the Linear SVM model.
 
-5. The model is stored using the Pickle library. 
+5. The model is stored using the Pickle library.
 
-6. In future, rest of the models will be studied for finding best parameters of for each. An overall best performing model can then be found. 
+6. In future, rest of the models will be studied for finding best parameters of for each. An overall best performing model can then be found.
 
 ### Built With
 
@@ -62,6 +62,6 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-Sinjoy Saha 
+Sinjoy Saha
   * [LinkedIn](https://linkedin.com/in/sinjoysaha)
   * [Twitter](https://twitter.com/SinjoySaha)
