@@ -38,9 +38,9 @@ In this [`Classification Project`](https://github.com/sinjoysaha/Amazon-Reviews-
 
 4. Further, GridSearchCV was used to find the best parameters for the Linear SVM model.
 
-5. The model is stored using the Pickle library.
+5. The Linear SVM model with best parameters found using GridSearchCV is stored using the Pickle library for future use.
 
-6. In future, rest of the models will be studied for finding best parameters of for each. An overall best performing model can then be found.
+6. In future, other models will be studied for finding best parameters of for each. An overall best performing model can then be found.
 
 ### Built With
 
