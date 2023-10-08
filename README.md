@@ -21,7 +21,7 @@
 
 In this [`Classification Project`](https://github.com/sinjoysaha/Amazon-Reviews-NLP), we use Natural Language Processing techniques and different Machine Learning models to classify Amazon book reviews into `POSITIVE` or `NEGATIVE` sentiments.
 
-[![Project Image](docs/images/Amazon-Reviews-NLP-projectimage.png)](https://github.com/sinjoysaha/Amazon-Reviews-NLP/blob/main/docs/images/image1.png)
+[![Project Image](docs/images/image1.png)](https://github.com/sinjoysaha/Amazon-Reviews-NLP/)
 
 ### Steps
 
