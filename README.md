@@ -5,7 +5,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/sinjoysaha/Amazon-Reviews-NLP.svg)](https://GitHub.com/sinjoysaha/Amazon-Reviews-NLP/stargazers/)
 [![GitHub watchers](https://img.shields.io/github/watchers/sinjoysaha/Amazon-Reviews-NLP.svg)](https://GitHub.com/sinjoysaha/Amazon-Reviews-NLP/watchers/)
 [![GitHub issues](https://img.shields.io/github/issues/sinjoysaha/Amazon-Reviews-NLP.svg)](https://GitHub.com/sinjoysaha/Amazon-Reviews-NLP/issues/)
-[![Profile views](https://gpvc.arturio.dev/sinjoysaha)](https://GitHub.com/sinjoysaha/)
 [![GitHub followers](https://img.shields.io/github/followers/sinjoysaha.svg)](https://github.com/sinjoysaha?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&color=545454)](https://linkedin.com/in/sinjoysaha)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue.svg?style=flat-square&logo=twitter&color=b3e0ff)](https://twitter.com/SinjoySaha)
@@ -22,7 +21,7 @@
 
 In this [`Classification Project`](https://github.com/sinjoysaha/Amazon-Reviews-NLP), we use Natural Language Processing techniques and different Machine Learning models to classify Amazon book reviews into `POSITIVE` or `NEGATIVE` sentiments.
 
-[![Project Image](docs/images/Amazon-Reviews-NLP-projectimage.png)](https://github.com/sinjoysaha/Amazon-Reviews-NLP)
+[![Project Image](docs/images/Amazon-Reviews-NLP-projectimage.png)](https://github.com/sinjoysaha/Amazon-Reviews-NLP/blob/main/docs/images/image1.png)
 
 ### Steps
 
